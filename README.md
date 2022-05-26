@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+Microsoft Edge:[Labzou](https://hx3.lanzoum.com/ib1UW00xrtpa) 密码：qwer
+
+##
+
+##以下内容与本页面无关。
+
 You can use the [editor on GitHub](https://github.com/YHXPie2/hxwebtip1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
